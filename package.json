@@ -9,9 +9,6 @@
     "build": "next build",
     "start": "NODE_ENV=production node server.js"
   },
-  "engines": {
-    "node": "8.14.0"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
